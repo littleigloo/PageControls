@@ -1,7 +1,7 @@
 # PageControls
 
 <p align="center">
-<img src="Images/coverImage1.png" width="200"/>
+<img src="Images/coverImage1.gif" width="450"/>
 </p>
 
 <p align="center">
